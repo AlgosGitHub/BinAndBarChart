@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="PurdyWindow">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../PurdyWindow/out/artifacts/PurdyWindow.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/PurdyWindow.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
